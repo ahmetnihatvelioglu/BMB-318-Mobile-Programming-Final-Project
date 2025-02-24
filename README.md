@@ -8,6 +8,7 @@ In this project, an application has been made that shows students what is availa
 
 # Libraries
 - Navigation:
+
 @react-navigation/native,
 
 @react-navigation/stack
