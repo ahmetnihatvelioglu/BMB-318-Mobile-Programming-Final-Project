@@ -21,7 +21,7 @@ Figma was used to design the pages and position the buttons and inputs within th
 
 @react-navigation/stack
 
-- ## Firebase ve Firestore:
+- ## Firebase and Firestore:
 
 firebase,
 
