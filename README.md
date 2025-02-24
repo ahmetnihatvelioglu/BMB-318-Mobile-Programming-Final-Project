@@ -7,13 +7,13 @@ In this project, an application has been made that shows students what is availa
 - Figma
 
 # Libraries
-- Navigation:
+- ## Navigation:
 
 @react-navigation/native,
 
 @react-navigation/stack
 
-- Firebase ve Firestore:
+- ## Firebase ve Firestore:
 
 firebase,
 
@@ -23,46 +23,46 @@ firebase,
 
 @firebase/firestore
 
-- Storage and Permanence:
+- ## Storage and Permanence:
 
 @react-native-async-storage/async-storage
 
-- Date and Time Pickers:
+- ## Date and Time Pickers:
 
 @react-native-community/datetimepicker,
 
 @react-native-modal-datetime-picker
 
-- React Native Core Libraries:
+- ## React Native Core Libraries:
 
 react,
 
 react-native
 
-- Safe Area Management:
+- ## Safe Area Management:
 
 react-native-safe-area-context
 
-- Other Used Libraries:
+- ## Other Used Libraries:
 
 react-native-actionsheet-picker
 
 
 
 # Usage
-- Install Dependencies
+- ## Install Dependencies
 
 Run the following command to install the required dependencies:
 
 "npm install"
 
-- Update Firebase Configuration
+- ## Update Firebase Configuration
 
 Make sure to add your own Firebase project configuration in the firebaseConfig.js file.
 
-- Uygulamayı Çalıştırın
+- ## Run the Application
 
-For Android and iOS devices/simulators, you can use the following commands:
+### For Android and iOS devices/simulators, you can use the following commands:
 
 If you are using Expo:
 
@@ -76,13 +76,13 @@ To run on an iOS device or simulator (Mac required):
 
 "npx react-native run-ios"
 
-- Login and Registration Procedures
+- ## Login and Registration Procedures
 
 Use the Sign Up page to create a new account.
 
 If you are an existing user, you can log in from the Login screen.
 
-- Using the Home Screen
+- ## Using the Home Screen
 
 To view the menus, go to the KYK Menu page.
 
