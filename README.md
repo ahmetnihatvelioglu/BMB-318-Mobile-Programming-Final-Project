@@ -6,3 +6,30 @@ In this project, an application has been made that shows students what is availa
 - Firebase
 - Figma
 
+# Libraries
+- Navigation
+@react-navigation/native
+@react-navigation/stack
+
+- Firebase ve Firestore
+firebase
+@react-native-firebase/app
+@react-native-firebase/auth
+@firebase/firestore
+
+- Storage and Permanence
+@react-native-async-storage/async-storage
+
+- Date and Time Pickers
+@react-native-community/datetimepicker
+react-native-modal-datetime-picker
+
+- React Native Core Libraries
+react
+react-native
+
+- Safe Area Management
+react-native-safe-area-context
+
+- Other Used Libraries
+react-native-actionsheet-picker
