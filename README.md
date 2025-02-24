@@ -12,6 +12,7 @@ In this project, an application has been made that shows students what is availa
 - Firestore: Cloud-based NoSQL database
 
 ## Figma
+Figma was used to design the pages and position the buttons and inputs within the page.
 
 # Libraries
 - ## Navigation:
