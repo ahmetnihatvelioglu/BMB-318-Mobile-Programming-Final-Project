@@ -2,9 +2,16 @@
 In this project, an application has been made that shows students what is available for breakfast, lunch and dinner in KYK dormitories. There are user login page, registration page, meal selection screen, profile editing screen, and screens where meals are displayed and meals are listed.
 
 # Technologies
-- React Native
-- Firebase
-- Figma
+## Mobile Development
+- React Native: Mobile application development
+- Expo: Framework that makes React Native applications easy
+- React Navigation: In-app page transitions
+
+## Backend and Database
+- Firebase: Authentication and database management
+- Firestore: Cloud-based NoSQL database
+
+## Figma
 
 # Libraries
 - ## Navigation:
